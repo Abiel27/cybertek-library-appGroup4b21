@@ -1,7 +1,6 @@
 package com.cybertek.library.step_definitions;
 
 import com.cybertek.library.pages.UsersPage;
-import com.cybertek.library.utilities.BrowserUtils;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
 

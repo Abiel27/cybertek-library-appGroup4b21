@@ -2,9 +2,7 @@ package com.cybertek.library.step_definitions;
 
 import com.cybertek.library.pages.LandingPage;
 import com.cybertek.library.pages.LoginPage;
-import com.cybertek.library.utilities.BrowserUtils;
 import com.cybertek.library.utilities.ConfigurationReader;
-import com.cybertek.library.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
